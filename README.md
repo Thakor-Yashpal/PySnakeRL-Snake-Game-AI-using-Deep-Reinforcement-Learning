@@ -5,7 +5,10 @@ The game is built with **Pygame**, and the neural network is implemented using *
 
 The agent improves over time by interacting with the environment, learning optimal actions through rewards and penalties.
 
+
 ---
+https://github.com/user-attachments/assets/b88ff6d3-c876-4c69-ad6e-277b176fa359
+
 
 ## 🚀 Features
 
