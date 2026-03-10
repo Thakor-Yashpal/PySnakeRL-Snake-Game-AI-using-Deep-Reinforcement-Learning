@@ -67,3 +67,4 @@ class QTrainer:
 
         self.optimizer.step()
 
+
